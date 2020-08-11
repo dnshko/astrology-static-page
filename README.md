@@ -1,0 +1,2 @@
+# astrology-static-page
+ 
